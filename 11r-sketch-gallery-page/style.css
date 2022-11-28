@@ -1,0 +1,83 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  display: block;
+  background-color: black;
+}
+#nightnatureflower {
+  /*position: absolute;*/
+  top: 0px;
+  width: 500px;
+  right: 600px;
+}
+h1{
+    /* font-family: 'Times New Roman', Times, Serif; */
+    font-family: 'Libre Baskerville', serif;
+    color: #dfcc9d;
+    font-size: 70px;
+    margin: 0px;
+    padding: 0px 100px 100px 800px;
+  }
+  
+  #linkedit {
+    /* position: absolute; */
+  top: 600px;
+  width: 500px;
+  right: 300px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 40px;
+  }
+
+  #linkfullscreen {
+    /* position: absolute; */
+  top: 600px;
+  width: 500px;
+  right: 300px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 40px;
+  }
+
+  #description {
+    /* position: absolute; */
+    top: 600px;
+    width: 500px;
+  }
+
+p {
+  font-family:  'Times New Roman', Times, Serif;
+  color: whitesmoke;
+  font-size: 14px;
+  /*background-color: whitesmoke;*/
+  }
+
+
+.flowertype {
+  font-family: 'Times New Roman', Times, Serif;
+  color: whitesmoke;
+  font-size: 14px;
+  background-color: coral;
+  width: 500px;
+  height: 100px;
+}
+
+
+#rectangle {
+  /*position: absolute;*/
+  background-color: aqua;
+  width: 1000px;
+  height: 100px;
+}
+
+canvas {
+  display: block;
+  margin: 2px;
+}
+#p5 {
+/*position: absolute;*/
+width: 1000px;
+height: 100px;
+}
+
+
+
