@@ -229,3 +229,11 @@ canvas {
   display: block;
   margin: 2px;
 }
+#p5 {
+/*position: absolute;*/
+width: 1000px;
+height: 100px;
+}
+
+
+
