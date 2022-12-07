@@ -41,7 +41,7 @@ html, body {
   font-size: 30px;
   background: transparent;
   position: absolute;
-  top: 550px;
+  top: 500px;
   left: 500px;
   cursor: pointer;
 }
@@ -55,7 +55,7 @@ html, body {
   font-size: 30px;
   background: transparent;
   position: absolute;
-  top: 550px;
+  top: 500px;
   left: 700px;
   /*width: 130px;*/
   cursor: pointer;
