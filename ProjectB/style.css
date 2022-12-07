@@ -61,6 +61,21 @@ html, body {
   cursor: pointer;
 }
 
+.reference{
+  font-family:'Libre Caslon Display', serif;
+  color: #dfcc9d;
+  display: inline-block;
+  border: 2px solid #dfcc9d;
+  padding: 12px 34px;
+  font-size: 25px;
+  background: transparent;
+  position: absolute;
+  width:150px;
+  top: 1050px;
+  left: 700px;
+  cursor: pointer;
+}
+
 #description{
   font-family:'Libre Caslon Display', serif;
   color: #dfcc9d;
@@ -78,21 +93,7 @@ html, body {
   /*padding: 0px 100px 100px 800px;*/
   position: absolute;
   }
-  
-  .reference{
-    font-family:'Libre Caslon Display', serif;
-    color: #dfcc9d;
-    display: inline-block;
-    border: 2px solid #dfcc9d;
-    padding: 12px 34px;
-    font-size: 30px;
-    background: transparent;
-    position: absolute;
-    width:180px;
-    top: 180px;
-    left: 700px;
-    cursor: pointer;
-  }
+
 
 /*.referencelink{
   top: 0px;
