@@ -74,15 +74,32 @@ p1{
     padding: 12px 34px;
     font-size: 20px;
     background: transparent;
-    position: absolute;
-    top: 650px;
+    position: relative;
+    top: -200px;
     left: 720px;
-    width: 1000px:
+    width: 290px;
     cursor: pointer;
+    overflow: hidden;
+  }
+  span{
+    background:#b36b00;
+    height: 100%;
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+    border-radius: 15px 50px 30px;
+    z-index: -1;
+    transition: 0.5s;
   }
   
-  
+  /* .linkinfo:hover span{
+    width: 100%;
+  }
 
+  .linkinfo:hover{
+  border: none;
+  } */
 canvas {
   display: block;
   margin: 2px; 
